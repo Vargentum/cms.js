@@ -3,20 +3,20 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: 'My Site',
+    siteName: "JS Beginner's notes",
 
     // Tagline for your site
     siteTagline: 'Your site tagline',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'vargentum@gmail.com',
 
     // Name
-    siteAuthor: 'Your Name',
+    siteAuthor: 'Vladislav Serebriakov',
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/Vargentum', newWindow: true},
       { name: 'About'}
     ],
 
